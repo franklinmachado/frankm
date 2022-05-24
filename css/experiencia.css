@@ -19,6 +19,14 @@
     color: #525252;
 }
 
+.experiencia a {
+    text-decoration: none;
+    color: #141414;
+}
+.experiencia a:hover {
+    color: #67dd0a;
+}
+
 .experiencia-texto strong {
     color: #141414;
 }
